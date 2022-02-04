@@ -20,6 +20,10 @@
 
 ![Clock animation preview](assets/relogio-preview.gif)
 
+## Triangle loader
+
+![Triangle loader preview]('assets/triangle-loader.gif)
+
 &nbsp;
 
 <h2 align="center">
