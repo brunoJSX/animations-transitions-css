@@ -22,7 +22,7 @@
 
 ## Triangle loader
 
-![Triangle loader preview]('assets/triangle-loader.gif)
+![Triangle loader preview](assets/triangle-loader.gif)
 
 &nbsp;
 
