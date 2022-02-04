@@ -14,11 +14,11 @@
 
 ## Animations
 
-![Animations preview]('./assets/animation-preview.gif')
+![Animations preview](assets/animation-preview.gif)
 
 ## Clock animation
 
-![Clock animation preview]('./assets/relogio-preview.gif')
+![Clock animation preview](assets/relogio-preview.gif)
 
 &nbsp;
 
