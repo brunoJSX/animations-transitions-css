@@ -24,6 +24,10 @@
 
 ![Triangle loader preview](assets/triangle-loader.gif)
 
+## Wave animation
+
+![Wave animation preview](assets/wave-animation.gif)
+
 &nbsp;
 
 <h2 align="center">
